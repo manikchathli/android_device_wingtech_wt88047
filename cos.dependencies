@@ -5,8 +5,8 @@
     "branch": "n7.0-caf"
   },
   {
-    "repository": "Keertesh19/OpenSource_Xiaomi",
+    "repository": "Keertesh19/CAF_Kernel",
     "target_path": "kernel/wingtech/msm8916",
-    "branch": "n7.1"
+    "branch": "n7.1-caf"
   }
 ]
