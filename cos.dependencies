@@ -1,10 +1,12 @@
 [
   {
+    "remote": "github",
     "repository": "Keertesh19/CAF_Vendor",
     "target_path": "vendor/wingtech",
     "branch": "n7.0-caf"
   },
   {
+    "remote": "github",
     "repository": "Keertesh19/CAF_Kernel",
     "target_path": "kernel/wingtech/msm8916",
     "branch": "n7.1-caf"
